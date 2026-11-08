@@ -1,3 +1,5 @@
+<img width="2160" height="3840" alt="B58ABF9A-F1E6-4738-995B-7DA36D37CBFD" src="https://github.com/user-attachments/assets/2479032c-d347-4127-8c97-2f321b1776fc" />
+<img width="2160" height="3840" alt="A4ADD063-37CC-4A1F-8533-E8BC5F008C2E" src="https://github.com/user-attachments/assets/444e40a5-d29b-46b3-9895-46e2bbf3125f" />
 <img width="2160" height="3840" alt="815FFF1A-F6E6-43FA-9692-3C2731F3187B" src="https://github.com/user-attachments/assets/132f9b6f-bd31-4df1-abec-63a12d954b3a" />
 <img width="2160" height="3840" alt="EDEE775F-BBD8-4452-8E66-D7192F5C3725" src="https://github.com/user-attachments/assets/bb930dd0-29ce-4d95-add6-fd20a5c33441" />
 # Iphone-se-linux
