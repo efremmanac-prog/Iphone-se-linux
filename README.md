@@ -1,3 +1,5 @@
+<img width="2160" height="3840" alt="815FFF1A-F6E6-43FA-9692-3C2731F3187B" src="https://github.com/user-attachments/assets/132f9b6f-bd31-4df1-abec-63a12d954b3a" />
+<img width="2160" height="3840" alt="EDEE775F-BBD8-4452-8E66-D7192F5C3725" src="https://github.com/user-attachments/assets/bb930dd0-29ce-4d95-add6-fd20a5c33441" />
 # Iphone-se-linux
 Booting Linux 7.0.4 (postmarketOS kernel) on iPhone SE 1st gen (A9) via checkm8, remote_boot and m1n1
 
