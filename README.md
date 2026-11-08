@@ -1,5 +1,3 @@
-<img width="2160" height="3840" alt="B58ABF9A-F1E6-4738-995B-7DA36D37CBFD" src="https://github.com/user-attachments/assets/2479032c-d347-4127-8c97-2f321b1776fc" />
-<img width="2160" height="3840" alt="A4ADD063-37CC-4A1F-8533-E8BC5F008C2E" src="https://github.com/user-attachments/assets/444e40a5-d29b-46b3-9895-46e2bbf3125f" />
 # Iphone-se-linux
 Booting Linux 7.0.4 (postmarketOS kernel) on iPhone SE 1st gen (A9) via checkm8, remote_boot and m1n1
 
@@ -12,6 +10,7 @@ Booting the postmarketOS 16k kernel (7.0.4) to userspace on an iPhone SE 1st gen
 **Status:** kernel boots into a custom busybox initramfs; the framebuffer console
 works. USB gadget networking does not work yet (`g_multi: couldn't find an
 available UDC`, `failed to start g_multi: -22`).
+<img width="2160" height="3840" alt="A4ADD063-37CC-4A1F-8533-E8BC5F008C2E" src="https://github.com/user-attachments/assets/444e40a5-d29b-46b3-9895-46e2bbf3125f" />
 
 ## Setup
 - Host: Linux Mint live USB
@@ -20,6 +19,7 @@ available UDC`, `failed to start g_multi: -22`).
   `postmarketos-initramfs` from the postmarketOS v26.06 aarch64 repo
 - Boot object built as in the postmarketOS "Apple Generic iDevice" wiki page:
   m1n1 macho + initramfs + kernel + `s8000-n69u.dtb` + `chosen.bootargs`
+  <img width="2160" height="3840" alt="B58ABF9A-F1E6-4738-995B-7DA36D37CBFD" src="https://github.com/user-attachments/assets/2479032c-d347-4127-8c97-2f321b1776fc" />
 
 ## Files
 - `init`: the initramfs init script
